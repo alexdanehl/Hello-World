@@ -16,3 +16,10 @@ First Repository
 
 ## Description
 
+Practice using GitHub by creating a sample repository, Make sure you add a description to help others understand your project. This should explain in detail what you did in this project, what you accomplished,
+outcomes, results, so on. Make this a couple of paragraphs
+
+## Tools Used
+
+
+## Files Used
