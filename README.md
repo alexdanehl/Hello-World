@@ -35,8 +35,11 @@ Here is where you can add links or talk about results or how you are using this 
 For now, I'm going to add a few additional Markdown Options:
 
 **Bold**
+
 *Italic*
+
 ~~Strikethrough~~
+
 ***Bold and Italic***
 
 
