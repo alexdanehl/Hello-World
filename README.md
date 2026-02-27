@@ -25,4 +25,18 @@ outcomes, results, so on. Make this a couple of paragraphs
 ## Files Used
 
 
-BOLD 
+## How to Run Program
+
+Explain here how you would run the program and what files need to be available.
+
+## Additional Information
+
+Here is where you can add links or talk about results or how you are using this information. This is your place to share more.
+For now, I'm going to add a few additional Markdown Options:
+
+**Bold**
+*Italic*
+~~Strikethrough~~
+***Bold and Italic***
+
+
